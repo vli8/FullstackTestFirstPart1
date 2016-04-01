@@ -18,5 +18,8 @@
     "grade": "node_modules/.bin/testem ci"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "testem": "^1.6.0"
+  }
 }
