@@ -21,8 +21,7 @@ To start, we need to fork the repository and install `testem`, a Node test-runne
 ```
 $ git clone https://github.com/{{your user name}}/FullstackTestFirst-Part-1.git
 $ cd FullstackTestFirst
-$ brew install node
-$ sudo npm install -g testem
+$ npm install -g testem
 ```
 
 To run the specs for a directory, you need to go into that directory and run the command `testem`. 
